@@ -1,0 +1,24 @@
+{
+  "name": "react-update-state",
+  "version": "1.0.2",
+  "description": "A new way to update React state.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevejia/react-update-state.git"
+  },
+  "keywords": [
+    "React",
+    "Update",
+    "State"
+  ],
+  "author": "steve.jia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevejia/react-update-state/issues"
+  },
+  "homepage": "https://github.com/stevejia/react-update-state#readme"
+}
